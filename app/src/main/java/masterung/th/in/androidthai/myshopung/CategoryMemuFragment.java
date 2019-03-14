@@ -8,6 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 
 
 /**
@@ -16,7 +17,7 @@ import android.widget.Button;
 public class CategoryMemuFragment extends Fragment implements View.OnClickListener {
 
 
-    private Button menu1Button, menu2Button, menu3Button, menu4Button, menu5Button;
+    private ImageView menu1Button, menu2Button, menu3Button, menu4Button, menu5Button;
 
 
     public CategoryMemuFragment() {

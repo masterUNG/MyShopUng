@@ -37,7 +37,7 @@ public class SplashFragment extends Fragment {
                         .commit();
 
             }
-        }, 10000);
+        }, 5000);
 
     }   // Main Method
 
